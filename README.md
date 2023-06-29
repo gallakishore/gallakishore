@@ -12,6 +12,7 @@ without boundaries to enhance my professional skills. </h3>
    </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gallakishore&show_icons=true&locale=en&layout=compact" alt="galla-kishore" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gallakishore&show_icons=true&locale=en" alt="gallakishore" /></p>
 
