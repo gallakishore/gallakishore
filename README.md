@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Galla Kishore</h1>
-<h3>Java developer,I am open to learn new and diversified technologies 
+<h3> Java developer,I am open to learn new and diversified technologies 
 without boundaries to enhance my professional skills. </h3>
 
 <h3>Skilled in:</h3>
