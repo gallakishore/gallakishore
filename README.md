@@ -3,7 +3,7 @@
 without boundaries to enhance my professional skills. </h3>
 
 <h3>Skilled in:</h3>
-   <p>	•Backend: Java 8, JEE (Servlet, JSP), JDBC, Spring MVC, Spring Boot, Hibernate,Spring JPA, Restful Services, Microservices, GraphQL, Kafka, Apache Airflow <br>
+   <p>  • Backend: Java 8, JEE (Servlet, JSP), JDBC, Spring MVC, Spring Boot, Hibernate,Spring JPA, Restful Services, Microservices, GraphQL, Kafka, Apache Airflow<br>
         • Frontend: HTML, CSS, Bootstrap<br>
         • Databases: MySQL, Oracle, PostgreSQL, H2, MongoDB<br>
         • Build tools: Maven, Gradle<br>
